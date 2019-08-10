@@ -21,6 +21,7 @@
     font-style: normal;
 }
 
+
 body {
     color: #2f2f2f;
     font-family: 'HelveticaNeueLTPro-Md';
@@ -53,6 +54,7 @@ a:hover, a:active {
     outline: 0;
     list-style: none;
 }
+
 
 /*--------------------------------------------------------------
 # Helper Utilities
@@ -173,16 +175,59 @@ a:hover, a:active {
     }
 }
 
+/*---------------------------*/
+* {
+  box-sizing: border-box;
+}
+
+.row_ {  
+  display: -ms-flexbox; /* IE10 */
+  display: flex;
+  -ms-flex-wrap: wrap; /* IE10 */
+  flex-wrap: wrap;
+}
+
+/* Create two unequal columns that sits next to each other */
+/* Sidebar/left column */
+.side {
+  -ms-flex: 20%; /* IE10 */
+  flex: 20%;
+  padding: 30px;
+}
+
+/* Main column */
+.main {   
+  -ms-flex: 70%; /* IE10 */
+  flex: 70%;
+  background-color: white;
+  padding: 20px;
+  font-family: "Open Sans";
+}
+
+.main2 {   
+  -ms-flex: 10%; /* IE10 */
+  flex: 10%;
+  background-color: white;
+  padding: 20px;
+  font-family: "Open Sans";
+}
+
+
+/*----------------------------*/
+
+
 /*
 # Site Branding
 --------------------------------*/
+
 .site-branding {
-    padding: 40px 0;
+    padding: 20px 0;
 }
 
 .site-title {
     font-size: 48px;
     font-family: 'garamond-premier-pro-display';
+    margin-bottom: 18px;
 }
 
 .site-title a {
