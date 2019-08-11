@@ -218,6 +218,20 @@ height:30;
   font-family: "Open Sans";
 }
 
+.centercard {     
+  background-color: white;
+  padding: 20px;
+  font-family: "Open Sans";
+}
+
+.fotter_ {     
+  background-color: white;
+  padding: 20px;
+  font-size: 30px;
+  font-family: "Open Sans";
+}
+
+
 
 .fa {
   padding: 20px;
