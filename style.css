@@ -180,6 +180,12 @@ a:hover, a:active {
   box-sizing: border-box;
 }
 
+.icons
+{
+width: 30;
+height:30;
+}
+
 .row_ {  
   display: -ms-flexbox; /* IE10 */
   display: flex;
@@ -210,6 +216,25 @@ a:hover, a:active {
   background-color: white;
   padding: 20px;
   font-family: "Open Sans";
+}
+
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background:  #808080;
+  color: white;
 }
 
 
