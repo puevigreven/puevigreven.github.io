@@ -1,0 +1,43 @@
+[
+    {
+        "companyName":"Wunderman Thompson Commerce",
+        "companyLogo":"img/48x48.png",
+        "jobProfile":"Engineer (Data Science)",
+        "fromYear":"August 2019",
+        "toYear":"Current",
+        "description":"General Description here",
+        "extras":{
+            "1":"Smart Shopping cart",
+            "2":"Personalized Search results",
+            "3":"Recommendation Engine"
+        },
+        "tags":["Deep Learning","Algorithms"]
+    },
+    {
+        "companyName":"ChironX(Radical Health Pvt. Ltd.)",
+        "companyLogo":"https://bulma.io/images/placeholders/48x48.png",
+        "jobProfile":"Platform Engineer",
+        "fromYear":"July 2018",
+        "toYear":"July 2019",
+        "description":"Worked on various stages of deep learning project, from the implementation of a data lake to developing computer vision models for Image Classification, Object Localization, Semantic Segmentation, etc.",
+        "tags":["classification","deep learning"]
+    },
+    {
+        "companyName":"Elucidata",
+        "companyLogo":"https://bulma.io/images/placeholders/48x48.png",
+        "jobProfile":"Data Engineer Intern",
+        "fromYear":"May 2017",
+        "toYear":"June 2017",
+        "description":"Developed a platform to filter the output file of Mass Spectroscopy machine as per the requirements of Data Scientists.",
+        "tags":["Data Science"]
+    },
+    {
+        "companyName":"Google Summer of Code - OpenMRS",
+        "companyLogo":"https://bulma.io/images/placeholders/48x48.png",
+        "jobProfile":"Open Source Developer",
+        "fromYear":"Dec 2015",
+        "toYear":"Aug 2016",
+        "description":"Created a bridge between Medical Record Systems(OpenMRS) and reporting and analysis tool(DHIS2), primarily to represent the medical data graphically.",
+        "tags":["gsoc"]
+    }
+]

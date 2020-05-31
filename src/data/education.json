@@ -1,0 +1,16 @@
+[
+    {
+        "instituteName":"Indian Institute of Technology, Patna",
+        "courseName":"Bachelor of Technology",
+        "fromYear":"June 2014",
+        "toYear":"June 2018",
+        "description":"Description of my education",
+        "extras":{
+            "1":"Extra Point 1",
+            "2":"Extra Point 2"
+        }
+    },
+    {
+        "instituteName":"Delta Junior College"
+    }
+]

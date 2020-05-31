@@ -1,0 +1,22 @@
+[
+    {
+        "blogTitle":"Roaming here and there",
+        "blogDescription":"Ut venenatis tellus in metus vulputate. Amet consectetur adipiscing elit pellentesque. Sed arcu non odio euismod lacinia at quis risus. Faucibus turpis in eu mi bibendum neque egestas cmonsu songue. Phasellus vestibulum lorem sed risus.",
+        "blogThumbnail":"https://bulma.io/images/placeholders/640x360.png",
+        "blogButton":{
+            "text":"Medium",
+            "url":"#",
+            "type":"medium"
+        }
+    },
+    {
+        "blogTitle":"Roaming here and there",
+        "blogDescription":"Ut venenatis tellus in metus vulputate. Amet consectetur adipiscing elit pellentesque.Phasellus vestibulum lorem sed risus.",
+        "blogThumbnail":"https://bulma.io/images/placeholders/640x360.png",
+        "blogButton":{
+            "text":"Medium",
+            "url":"#",
+            "type":"medium"
+        }
+    }
+]
