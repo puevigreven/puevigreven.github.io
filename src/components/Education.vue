@@ -7,15 +7,19 @@
         <div class="column is-full" v-for="(el, i) in educationJSON" :key="i">
           <div class="card">
             <div class="card-content">
-              <div class="content">
-                <p class="title is-4">{{ el.instituteName }}</p>
-                <p class="subtitle is-6" v-if="el.courseName">
-                  {{ el.courseName }} -
-                  <span class="has-text-grey"
-                    ><time>{{ el.fromYear }}</time> -
-                    <time>{{ el.toYear }}</time></span
-                  >
-                </p>
+              <div class="media">
+                <div class="media-left">
+                  <figure class="image is-64x64">
+                    <img :src="el.instituteLogo" alt="Placeholder image" />
+                  </figure>
+                </div>
+                <div class="media-content">
+                  <p class="title is-6 is-marginless">{{ el.instituteName }}</p>
+                  <p class="subtitle is-6 is-marginless">
+                    {{ el.courseName }} 
+                  </p>
+                  <p class="subtitle is-6 has-text-grey" v-if="el.fromYear || el.toYear">{{ el.fromYear }} - {{ el.toYear }}</p>
+                </div>
               </div>
               <div class="content">
                 {{ el.description }}

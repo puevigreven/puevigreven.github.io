@@ -18,7 +18,7 @@
                   <p class="subtitle is-6 is-marginless">
                     {{ el.jobProfile }} 
                   </p>
-                  <p class="subtitle is-6 has-text-grey">{{ el.fromYear }}-{{ el.toYear }}</p>
+                  <p class="subtitle is-6 has-text-grey" v-if="el.fromYear || el.toYear">{{ el.fromYear }} - {{ el.toYear }}</p>
                 </div>
               </div>
               <div class="content">

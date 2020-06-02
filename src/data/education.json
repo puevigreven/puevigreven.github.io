@@ -1,6 +1,7 @@
 [
     {
         "instituteName":"Indian Institute of Technology, Patna",
+        "instituteLogo":"img/48x48.png",
         "courseName":"Bachelor of Technology",
         "fromYear":"June 2014",
         "toYear":"June 2018",
@@ -11,6 +12,7 @@
         }
     },
     {
-        "instituteName":"Delta Junior College"
+        "instituteName":"Delta Junior College",
+        "instituteLogo":"img/48x48.png"
     }
 ]
