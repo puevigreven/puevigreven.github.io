@@ -5,7 +5,7 @@
         <div class="level">
           <div class="level-item has-text-centered">
             <figure class="image is-128x128">
-              <img class="is-rounded" src="img/me-white.jpg" />
+              <img class="is-rounded" src="img/profile_pic.jpg" />
             </figure>
           </div>
         </div>
