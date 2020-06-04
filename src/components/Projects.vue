@@ -14,7 +14,7 @@
             <div class="card-content has-text-centered">
               <div class="media">
                 <div class="media-content is-full has-text-centered">
-                  <p class="title is-5">{{ el.projectTitle }}</p>
+                  <p class="title is-6">{{ el.projectTitle }}</p>
                   <div class="card-description">
                     <p>{{ el.projectDescription }}</p>
                   </div>
@@ -64,7 +64,7 @@ export default {
 </script>
 <style scoped>
 img {
-  padding: 25px;
+  padding: 15px;
 }
 .card-content {
   padding-top: 0px;

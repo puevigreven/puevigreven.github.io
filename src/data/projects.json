@@ -1,47 +1,15 @@
 [
+
     {
-        "projectTitle":"Deep Learning with EHR",
-        "projectDescription":"Ut venenatis tellus in metus vulputate. Amet consectetur adipiscing elit pellentesque. Sed arcu non odio euismod lacinia at quis risus.",
-        "projectThumbnail":"https://bulma.io/images/placeholders/640x360.png",
+        "projectTitle":"Exploring Disorder-aware Attention for Clinical Event Extraction",
+        "projectDescription":"We propose a deep learning framework that aims to identify the attributes (severity, course etc.) associated with the medical concepts extracted from Electronic Medical Records (EMR).",
+        "projectThumbnail":"img/research-1.png",
         "projectButton":{
-            "text":"Github",
-            "url":"#",
-            "type":"github"
-        }
-    },
-    {
-        "projectTitle":"Deep Learning with EHR",
-        "projectDescription":"Ut venenatis tellus in metus vulputate.",
-        "projectThumbnail":"https://bulma.io/images/placeholders/640x360.png",
-        "projectButton":{
-            "text":"Website",
-            "url":"#",
-            "type":"website"
-        }
-    },
-    {
-        "projectTitle":"Deep Learning with EHR",
-        "projectDescription":"Ut venenatis tellus in metus vulputate. Amet consectetur adipiscing elit pellentesque. Sed arcu non odio euismod lacinia at quis risus.",
-        "projectThumbnail":"https://bulma.io/images/placeholders/640x360.png",
-        "projectButton":{
-            "text":"Article",
+            "text":"Publication",
             "url":"#",
             "type":"article"
         }
-    },
-    {
-        "projectTitle":"Deep Learning with EHR",
-        "projectDescription":"Ut venenatis tellus in metus vulputate. Amet consectetur adipiscing elit pellentesque. Sed arcu non odio euismod lacinia at quis risus.",
-        "projectThumbnail":"https://bulma.io/images/placeholders/640x360.png"
-    },
-    {
-        "projectTitle":"Deep Learning with EHR",
-        "projectDescription":"Ut venenatis tellus in metus vulputate.",
-        "projectThumbnail":"https://bulma.io/images/placeholders/640x360.png",
-        "projectButton":{
-            "text":"Website",
-            "url":"#",
-            "type":"website"
-        }
     }
+
+
 ]

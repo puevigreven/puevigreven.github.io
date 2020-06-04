@@ -57,4 +57,6 @@ export default {
   border-radius: 5px!important;
   min-height: 350px;
 }
+
+
 </style>

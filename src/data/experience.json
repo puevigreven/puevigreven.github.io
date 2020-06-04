@@ -5,21 +5,25 @@
         "jobProfile":"Engineer (Data Science)",
         "fromYear":"August 2019",
         "toYear":"Current",
-        "description":"Applying Machine learning in ecommerce businesses to create a more personalized customer experience.",
+        "description": "Applying Machine learning in ecommerce businesses to create a more personalized customer experience.",
         "extras":{
-            "1":"Recommendation Systems",
-            "2":"Improving search results using Personalized Search engine"
+            "1":"Developed Sequencial Recommender System to suggest Next-Item-In-Basket using frequent pattern mining, matrix factorization and Deep Learning Techniques",
+            "2":"Working on Recommendation Engine using collaborative filtering and content-based recommendations"
         },
-        "tags":["Recommder Systems","NLP"]
+        "tags":["Recommender Systems","NLP"]
     },
     {
-        "companyName":"ChironX(Radical Health Pvt. Ltd.)",
+        "companyName":"ChironX(Radical Health)",
         "companyLogo":"img/chironx.png",
         "jobProfile":"Platform Engineer",
         "fromYear":"July 2018",
         "toYear":"July 2019",
-        "description":"Worked on various stages of deep learning project, from the implementation of a data lake to developing computer vision models for Image Classification, Object Localization, Semantic Segmentation, etc.",
-        "tags":["classification","deep learning"]
+        "description": "Worked on the problems at the intersection of machine learning and healthcare.",
+        "extras":{
+            "1":"Developed computer vision models for Image Classification to detection of 10 major retinal clinical signs",
+            "2":"Built a software for Automatic Data Collection from a remote hospital with minimal internet connectivity"
+        },
+        "tags":["Computer Vision", "AWS"]
     },
     {
         "companyName":"Elucidata",
@@ -27,8 +31,12 @@
         "jobProfile":"Data Engineer Intern",
         "fromYear":"May 2017",
         "toYear":"June 2017",
-        "description":"Developed a platform to filter the output file of Mass Spectroscopy machine as per the requirements of Data Scientists.",
-        "tags":["Data Science"]
+        "description":"Developed a platform to organise huge datasets of Mass Spectroscopy machine ",
+        "extras":{
+            "1":"Automated the process of transferring the large datasets from various cloud services like Google Drive, Dropbox and Box to AWS S3.",
+            "2":"Designed and developed the overall architecture of the application and implemented the foundational elements"
+        },
+        "tags":["Python","Flask", "SQL"]
     },
     {
         "companyName":"Google Summer of Code - OpenMRS",
@@ -36,7 +44,11 @@
         "jobProfile":"Open Source Developer",
         "fromYear":"Dec 2015",
         "toYear":"Aug 2016",
-        "description":"Created a bridge between Medical Record Systems(OpenMRS) and reporting and analysis tool(DHIS2), primarily to represent the medical data graphically.",
-        "tags":["gsoc"]
+        "description":"Created a bridge between OpenMRS and reporting and analysis tool(DHIS2), primarily to represent the medical data graphically.",
+        "extras":{
+            "1":"Reduced time to import Report Definitions by 60% by automating the process.",
+            "2":"Extensively Unit Tested the complete codebase of the DHIS2 Report Module"
+        },
+        "tags":["REST API","Java" ,  "Open Source"]
     }
 ]

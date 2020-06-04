@@ -46,6 +46,7 @@ h3 {
 ul {
   list-style-type: none;
   padding: 0;
+  font-size: 0.9em;
 }
 li {
   display: inline-block;
