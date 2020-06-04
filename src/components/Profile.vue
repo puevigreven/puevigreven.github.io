@@ -23,10 +23,11 @@
         <h1 class="title is-1" id="name">
           Pralay Ramteke
         </h1>
-        <h2 class="subtitle is-3">
-          Data Science Engineer
+        <h2 class="subtitle is-3" id="title">
+          Data Scientist @ Wunderman Thompson Commerce
         </h2>
-        <p class="subtitle is-5 has-text-grey">Here is something about me.</p>
+        <p class="subtitle is-5 has-text-grey"> My technical interests are in Recommender Systems, Natural Language Processing and Full-Stack Data Science. I try to put my research and engineering efforts to projects with positive societal impact, including solving healthcare and environmental challenges. 
+        </p>
       </div>
       </div>
     </div>
@@ -40,5 +41,9 @@ export default {};
 <style scoped>
 #name{
   margin-bottom: 1.5rem!important;
+}
+#title{
+  margin-bottom: 1.5rem!important;
+  font-size: 1rem;
 }
 </style>

@@ -1,14 +1,14 @@
 [
     {
         "instituteName":"Indian Institute of Technology, Patna",
-        "instituteLogo":"img/48x48.png",
-        "courseName":"Bachelor of Technology",
+        "instituteLogo":"img/iitp.png",
+        "courseName":"Bachelor of Technology, Computer Science and Engineering",
         "fromYear":"June 2014",
         "toYear":"June 2018",
-        "description":"Description of my education",
         "extras":{
-            "1":"Extra Point 1",
-            "2":"Extra Point 2"
+            "1":"B. Tech Thesis on Patient Severity Detection using NLP under the guidance of Dr Pushpak Bhattacharyya",
+            "2":"Developed text annotation tools that are still been used in AI-NLP-ML Lab, IIT Patna",
+            "3":"Designed and Developed Hospital Management System for IIT Patna Hospital Unit"
         }
     }
 ]

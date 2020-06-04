@@ -1,21 +1,20 @@
 [
     {
         "companyName":"Wunderman Thompson Commerce",
-        "companyLogo":"img/48x48.png",
+        "companyLogo":"img/wtc.jpg",
         "jobProfile":"Engineer (Data Science)",
         "fromYear":"August 2019",
         "toYear":"Current",
-        "description":"General Description here",
+        "description":"Applying Machine learning in ecommerce businesses to create a more personalized customer experience.",
         "extras":{
-            "1":"Smart Shopping cart",
-            "2":"Personalized Search results",
-            "3":"Recommendation Engine"
+            "1":"Recommendation Systems",
+            "2":"Improving search results using Personalized Search engine"
         },
-        "tags":["Deep Learning","Algorithms"]
+        "tags":["Recommder Systems","NLP"]
     },
     {
         "companyName":"ChironX(Radical Health Pvt. Ltd.)",
-        "companyLogo":"https://bulma.io/images/placeholders/48x48.png",
+        "companyLogo":"img/chironx.png",
         "jobProfile":"Platform Engineer",
         "fromYear":"July 2018",
         "toYear":"July 2019",
@@ -24,7 +23,7 @@
     },
     {
         "companyName":"Elucidata",
-        "companyLogo":"https://bulma.io/images/placeholders/48x48.png",
+        "companyLogo":"img/elucidata-logo.svg",
         "jobProfile":"Data Engineer Intern",
         "fromYear":"May 2017",
         "toYear":"June 2017",
@@ -33,7 +32,7 @@
     },
     {
         "companyName":"Google Summer of Code - OpenMRS",
-        "companyLogo":"https://bulma.io/images/placeholders/48x48.png",
+        "companyLogo":"img/gsoc.png",
         "jobProfile":"Open Source Developer",
         "fromYear":"Dec 2015",
         "toYear":"Aug 2016",
