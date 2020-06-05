@@ -64,7 +64,7 @@ export default {
 </script>
 <style scoped>
 img {
-  padding: 15px;
+  box-shadow:0 0.1em 0.5em -0.125em ;
 }
 .card-content {
   padding-top: 0px;
@@ -73,4 +73,5 @@ img {
 .card-description{
   min-height: 120px;
 }
+
 </style>

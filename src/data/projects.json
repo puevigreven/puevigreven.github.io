@@ -3,10 +3,10 @@
     {
         "projectTitle":"Exploring Disorder-aware Attention for Clinical Event Extraction",
         "projectDescription":"We propose a deep learning framework that aims to identify the attributes (severity, course etc.) associated with the medical concepts extracted from Electronic Medical Records (EMR).",
-        "projectThumbnail":"img/research-1.png",
+        "projectThumbnail":"img/research_paper.png",
         "projectButton":{
             "text":"Publication",
-            "url":"#",
+            "url":"https://dl.acm.org/doi/abs/10.1145/3372328",
             "type":"article"
         }
     }
