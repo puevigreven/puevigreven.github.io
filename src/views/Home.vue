@@ -42,7 +42,7 @@ export default {
     Projects,
     Education,
     Contact,
-    Blogs,
+    //Blogs,
     Footer,
     BackToTop,
   },
@@ -51,7 +51,7 @@ export default {
       educationJSON,
       experienceJSON,
       projectsJSON,
-      blogsJSON,
+     // blogsJSON,
       isVisible: false,
     };
   },
